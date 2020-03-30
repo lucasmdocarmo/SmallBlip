@@ -8,7 +8,7 @@ using Service;
 
 namespace Server
 {
-    public class ChatServer
+    public class ChatServer 
     {
         public static int PORT_NO = 5000;
         public static string SERVER_IP = "127.0.0.1";
