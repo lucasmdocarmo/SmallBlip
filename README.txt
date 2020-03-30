@@ -8,3 +8,5 @@ ex: /p lucas oi
 /to lucas oi
 (mensagem normal)
 
+- Para simular varias pessaos no chat, Executar o Arquivo CLIENT.EXE na /bin/ do projeto Client.
+
